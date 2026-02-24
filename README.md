@@ -9,12 +9,12 @@
 
 1. Creating new github repository with a clone of data06 project
 2. updating readme and pyproject.toml to include scipy
-3. 
+3. added virtual environment
+4. created new notebook to start.
+5. installed dependencies
     
 
-# Updates
+# Commit Updates
 
 1. initial git commit with notes 1-5
-2. Notes 6-12
-3. Renamed notebook
-4. 
+   
