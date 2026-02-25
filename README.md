@@ -13,10 +13,13 @@
 4. created new notebook to start.
 5. installed dependencies
 6. Added dependencies that were recommended for sklearn
-7. 
+7. started project following guided lesson from chapter 10.16
+8. started guided lesson from chapter 15
     
 
 # Commit Updates
 
 1. initial git commit with notes 1-5
+2. 2nd update with project started and updated readme
+3. completed part 3 prediction
    
