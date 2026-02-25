@@ -12,6 +12,8 @@
 3. added virtual environment
 4. created new notebook to start.
 5. installed dependencies
+6. Added dependencies that were recommended for sklearn
+7. 
     
 
 # Commit Updates

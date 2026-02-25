@@ -8,7 +8,7 @@
 # WHY: Centralizes project configuration.
 
 [project]
-name = "datafun-06-eda" # CUSTOM: Package distribution name (use lowercase and dashes).
+name = "datafun-07-ml" # CUSTOM: Package distribution name (use lowercase and dashes).
 readme = "README.md"
 requires-python = ">=3.14"
 version = "0.1.0"
@@ -24,6 +24,30 @@ dependencies = [
     "matplotlib>=3.8.0",
     "pyarrow>=12.0.0",
     "scipy>=1.10.0",
+    "numpy>=1.24.0",
+    "joblib>=1.2.0",
+    "threadpoolctl>=3.1.0",
+    "cython>=3.0.10",
+    "meson-python>=0.16.0",
+    "scikit-image>=0.17.2",
+    "memory_profiler>=0.60.0",
+    "black>=24.3.0",
+    "mypy>=1.9.0",
+    "polars>=0.20.30",
+    "sphinx>=7.3.7",
+    "sphinx-copybutton>=0.5.2",
+    "sphinx-gallery>=0.16.0",
+    "numpydoc>=1.2.0",
+    "Pillow>=7.1.2",
+    "pooch>=1.6.0",
+    "sphinx-prompt>=1.4.0",
+    "sphinxext-opengraph>=0.9.1",
+    "plotly>=5.14.0",
+    "sphinxcontrib-sass>=0.3.4",
+    "sphinx-remove-toctrees>=1.0.0",
+    "sphinx-design>=0.6.0",
+    "pydata-sphinx-theme>=0.15.3",
+    "conda-lock>=2.5.6",
 ]
 
 
