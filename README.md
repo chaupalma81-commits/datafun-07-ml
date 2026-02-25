@@ -15,6 +15,8 @@
 6. Added dependencies that were recommended for sklearn
 7. started project following guided lesson from chapter 10.16
 8. started guided lesson from chapter 15
+9. completed project
+10. added in mkdocs.yaml
     
 
 # Commit Updates
@@ -22,4 +24,5 @@
 1. initial git commit with notes 1-5
 2. 2nd update with project started and updated readme
 3. completed part 3 prediction
+4. project complete added in mkdocs
    
